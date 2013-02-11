@@ -37,5 +37,5 @@ The program itself reads from standard input; however, it is recommended that us
 
 *unisex* runs as
 ```
-./unisex <number of stalls> < <input filename>
+./unisex <number of stalls> [< <input filename> ]
 ```
