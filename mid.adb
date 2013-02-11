@@ -1,3 +1,5 @@
+-- Author: David Frantz
+-- Date: May 2012
 
 -- ./make_input_data <number of instructions> <file name to make>
 
